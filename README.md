@@ -1,1 +1,4 @@
-# jobsphere
+# Deskripsi
+	JobSphere adalah aplikasi pencarian lowongan kerja yang bertujuan membantu para pencari kerja menemukan peluang karir yang sesuai dengan keterampilan, minat, dan lokasi mereka. Aplikasi ini menyediakan berbagai fitur, seperti filter pencarian yang lengkap berdasarkan kategori, lokasi, dan jenis pekerjaan, serta fitur profil profesional yang memungkinkan pengguna menunjukkan keterampilan, pengalaman, dan pendidikan mereka kepada para rekruter. JobSphere menyederhanakan proses pencarian kerja dengan antarmuka yang ramah pengguna, memungkinkan para pencari kerja menemukan peluang kerja yang relevan secara cepat dan mudah.
+	Bagi perusahaan, JobSphere menyediakan fitur registrasi dan login, profil perusahaan, pembuatan dan pengelolaan lowongan pekerjaan, serta manajemen lamaran yang masuk. Dengan notifikasi dan pembaruan real-time, perusahaan dapat dengan mudah mengelola proses rekrutmen secara efisien. JobSphere berperan penting dalam menyederhanakan pencarian kerja dan proses rekrutmen, menciptakan pengalaman yang lebih nyaman dan efektif bagi kedua belah pihak.
+ 
